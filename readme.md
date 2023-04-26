@@ -1,4 +1,4 @@
-[ <p align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&width=720&lines=Hi%2C+I'm+Fran.++I+am+currently+studying+to+be+a+Developer👨🏻‍💻)](https://git.io/typing-svg)
+[ <p align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&width=720&lines=Hi%2C+I'm+Guadi.++I+am+currently+studying+to+be+a+Developer👨🏻‍💻)](https://git.io/typing-svg)
 <p align="center">
  <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 </p>
