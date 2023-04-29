@@ -1,7 +1,7 @@
 [ <p align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=008000&width=720&lines=Hi%2C+I'm+Guadi.++I+am+a+freelance+Developer.++Get+to+know+me!)](https://git.io/typing-svg)
 
 <p align="center">
- <img alt="GIF" src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" width="500" height="320" />
+ <img alt="GIF" src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" width="400" height="220" />
 </p>
 </p>
 
